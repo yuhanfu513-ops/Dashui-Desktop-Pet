@@ -1,0 +1,7 @@
+.DS_Store
+/build/
+/Work/
+*.app/
+*.zip
+__pycache__/
+*.pyc
